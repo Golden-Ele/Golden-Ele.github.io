@@ -15,7 +15,7 @@ I am very fortunate to be under the guidance of [Prof. Yong Song](https://opt.bi
 
 My research interests encompass Computer Vision (Detection and Tracking), Knowledge Distillation.
 
-Currently, my work focuses on Object Detection and Tracking algorithms in Complex Low-altitude Aerial Scenes, Design of Distillation Framework for Specific Scenes, Multi-object Rotation Detection Algorithm based on Optical Remote Sensing Images and Salient Object Detection. 
+Currently, my work focuses on object detection and tracking algorithms in complex low-altitude aerial scenes, design of knowledge distillation framework for specific scenes, multi-object rotation detection algorithm based on optical remote sensing images and salient object detection. 
 
 
 
