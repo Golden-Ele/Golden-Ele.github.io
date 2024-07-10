@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student enrolled in the Fall 2022 semester in the [School of Optics and Photonics](https://opt.bit.edu.cn/) at [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/)![BIT-logo](../images/BIT-LOGO.png).
+I am currently a master student enrolled in the Fall 2022 semester in the [School of Optics and Photonics](https://opt.bit.edu.cn/) at [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/)
+<span style="display: flex; align-items: center;">
+    <img src="../images/BIT-LOGO.png" alt="BIT-Logo" style="width: 30px; height: auto; margin-right: 10px;">
+    Welcome to My Site
+</span>
 
 Prior to joining BIT, I pursued my Bachelor's(BS) degree in Measurement and Control Technology and Instrument from the [School of Mechanical, Electronic and Control Engineering](https://mece.bjtu.edu.cn/) at [Beijing Jiaotong University (BJTU)](https://www.bjtu.edu.cn/).
 
