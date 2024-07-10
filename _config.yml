@@ -24,7 +24,7 @@ author:
   avatar           : "Avatar-hjx.png"
   name             : "Jinxiang Huang (黄金象)"
   pronouns         : "Golden-Ele"  
-  bio              : "M.S. Student, Beijing Institute of Technology"
+  bio              : "M.S. Student, BIT"
   location         : "Beijing, China"
   employer         : "Beijing Institute of Technology"
   uri              : # URL
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=bI8vmDcAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-1664-3367"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -72,6 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  
 
 
 # Site Settings
