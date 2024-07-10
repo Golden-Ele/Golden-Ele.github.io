@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a master student enrolled in the Fall 2022 semester in the [School of Optics and Photonics](https://opt.bit.edu.cn/) at [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/)<img src="../images/bit-logo.png" alt="BIT-Logo" style="width: 20px; height: auto; margin-right: 10px;">.
 
-Prior to joining BIT, I pursued my Bachelor's(BS) degree in Measurement and Control Technology and Instrument from the [School of Mechanical, Electronic and Control Engineering](https://mece.bjtu.edu.cn/) at [Beijing Jiaotong University (BJTU)](https://www.bjtu.edu.cn/).
+Prior to joining BIT, I pursued my Bachelor's(BS) degree in Measurement and Control Technology and Instrument from the [School of Mechanical, Electronic and Control Engineering](https://mece.bjtu.edu.cn/) at [Beijing Jiaotong University (BJTU)](https://www.bjtu.edu.cn/)<img src="../images/bjtu-logo.png" alt="BJTU-Logo" style="width: 20px; height: auto; margin-right: 10px;">.
 
 I am very fortunate to be under the guidance of [Prof. Yong Song](https://opt.bit.edu.cn/jsdw/jsml/gdyqyjs/f491c35fcedd48548d87063037b5e67c.htm) from the [BCI-Lab](https://bit-bcilab.github.io/) at BIT and advised by [Prof. Xining Xu](https://faculty.bjtu.edu.cn/8929/) from the Rail Transit Intelligent Detection Technology Research Institute at BJTU.
 
