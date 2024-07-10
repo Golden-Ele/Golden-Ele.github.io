@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<:elephant:>About me"
+title: ":elephant:About me"
 author_profile: true
 redirect_from: 
   - /about/
