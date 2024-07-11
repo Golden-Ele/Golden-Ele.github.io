@@ -17,5 +17,16 @@ My research interests encompass Computer Vision (Detection and Tracking), Knowle
 
 Currently, my work focuses on object detection and tracking algorithms in complex low-altitude aerial scenes, design of knowledge distillation framework for specific scenes, multi-object rotation detection algorithm based on optical remote sensing images and salient object detection, with the applications in complex low altitude scenes.
 
+---
+permalink: /
+title: "Contact with me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Welcome to contact with me via my email: 
+
 
 
