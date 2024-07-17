@@ -15,8 +15,8 @@ Currently, my work focuses on object detection and tracking algorithms in comple
 ---
 📰 News
 ---
-- 2024.05:  [RDR-KD](https://ieeexplore.ieee.org/document/10522745) is accepted by IEEE Geoscience and Remote Sensing Letters！
-- 2022.09:  I join BCI-Lab as a master researcher!
+- 2024.05: 🌟 [RDR-KD](https://ieeexplore.ieee.org/document/10522745) is accepted by IEEE Geoscience and Remote Sensing Letters！
+- 2022.09: 🌟 I join BCI-Lab as a master researcher!
 
 ---
 📧 Contact
