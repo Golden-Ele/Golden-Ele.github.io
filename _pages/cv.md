@@ -11,13 +11,13 @@ redirect_from:
 
 You can find my CV here: [Jinxiang Huang's Curriculum Vitae](../files/CV_JinxiangHUANG.pdf).
 
-Education
-======
+# Education
+
 * M.S. in the School of Optics and Photonics, Beijing Institute of Technology (BIT), 2022
 * B.S. in the School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University (BJTU), 2018
 
-Research Experience
-======
+# Research Experience
+
 * Sep 2023 - Present: Knowledge Distillation Algorithm for Complex Low-Altitude Aerial Scenes
 
 * Feb 2023 - Sep 2023: Air-Ground Cooperative Information Processing System Based on Drone Platform
@@ -27,8 +27,8 @@ Research Experience
 * Jan 2022 - Jun 2022: Salient Object Detection Algorithm
 
   
-Skills
-======
+# Skills
+
 * Programming
   * Python
   * MATLAB
