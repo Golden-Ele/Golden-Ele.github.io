@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2024-05-08
 venue: 'IEEE Geoscience and Remote Sensing Letters'
-paperurl: 'https://github.com/Golden-Ele/Golden-Ele.github.io/blob/master/files/RDR-KD_A_Knowledge_Distillation_Detection_Framework_for_Drone_Scenes.pdf'
+paperurl: 'https://Golden-Ele.github.io/files/RDR-KD_A_Knowledge_Distillation_Detection_Framework_for_Drone_Scenes.pdf'
 citation: 'J. Huang, H. Chang, X. Yang, Y. Liu, S. Liu and Y. Song, "RDR-KD: A Knowledge Distillation Detection Framework for Drone Scenes," in IEEE Geoscience and Remote Sensing Letters, vol. 21, pp. 1-5, 2024'
 ---
 
