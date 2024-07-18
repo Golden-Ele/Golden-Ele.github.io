@@ -36,7 +36,7 @@ Currently, my work focuses on object detection and tracking algorithms in comple
 - 2020&2021 **Academic Excellent Scholarship**, _Beijing Jiaotong University_
 - 2020 **Merit Award**, _The Third 3D Printing Competition at Tsinghua University_
 
-🖥️ Internships
+🖥️ Internship
 ======
 - 2021.09 - 2022.2, Chaoyang District People’s Government of Beijing Municipality
 
