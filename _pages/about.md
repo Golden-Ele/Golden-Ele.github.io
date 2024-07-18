@@ -19,14 +19,30 @@ Currently, my work focuses on object detection and tracking algorithms in comple
 
 📰 News
 ======
+- 2024.05: 🎉🎉 [LSN](https://ieeexplore.ieee.org/document/10521630) is accepted by IEEE Transactions on Geoscience and Remote Sensing！
+- 2024.05: 🎉🎉 [RDR-KD](https://ieeexplore.ieee.org/document/10522745) is accepted by IEEE Geoscience and Remote Sensing Letters！
+- 2022.09: 😄 I join BCI-Lab as a master researcher!
 
-- 2024.05: 🌟 [RDR-KD](https://ieeexplore.ieee.org/document/10522745) is accepted by IEEE Geoscience and Remote Sensing Letters！
-- 2022.09: 🌟 I join BCI-Lab as a master researcher!
+🎖 Honors and Awards
+======
+- 2023 **Graduate First Prize Scholarship**, _Beijing Institute of Technology_
+- 2023 **Outstanding Student**, _Beijing Institute of Technology_
+- 2023 **Outstanding League Cadres**, _Beijing Institute of Technology_
+- 2023 **Advanced Individual**, _Beijing Institute of Technology Graduate Student Association_
+- 2022 **First Academic Scholarship for New Graduate Students**, _Beijing Institute of Technology_
+- 2022 **Outstanding Individual**, _Beijing Winter Olympics Volunteers_
+- 2021 **Merit Award**, _National Undergraduate Training Program for Innovation and Entrepreneurship_
+- 2021 **First Prize at the Beijing Municipal Level**, _The 11th Challenge Cup_
+- 2020&2021 **Academic Excellent Scholarship**, _Beijing Jiaotong University_
+- 2020 **Merit Award**, _The Third 3D Printing Competition at Tsinghua University_
+
+🖥️ Internships
+======
+- 2021.09 - 2022.2, Chaoyang District People’s Government of Beijing Municipality
 
 ✉️ Contact
 ======
-
-Welcome to contact with me via my email: huangjinxiang@bit.edu.cn / jinxiang.kd@gmail.com
+Welcome to contact with me via my email:  [huangjinxiang@bit.edu.cn](huangjinxiang@bit.edu.cn) / [jinxiang.kd@gmail.com](jinxiang.kd@gmail.com)
 
 
 
