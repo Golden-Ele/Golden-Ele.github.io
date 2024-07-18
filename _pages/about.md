@@ -42,7 +42,7 @@ Currently, my work focuses on object detection and tracking algorithms in comple
 
 ✉️ Contact
 ======
-Welcome to contact with me via my email:  [huangjinxiang@bit.edu.cn](huangjinxiang@bit.edu.cn) / [jinxiang.kd@gmail.com](jinxiang.kd@gmail.com)
+Welcome to contact with me via my email:  [huangjinxiang@bit.edu.cn](mailto:huangjinxiang@bit.edu.cn) / [jinxiang.kd@gmail.com](mailto:jinxiang.kd@gmail.com)
 
 
 
