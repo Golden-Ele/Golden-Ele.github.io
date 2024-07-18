@@ -1,6 +1,11 @@
-
-# 🐘 About me
-
+---
+permalink: /
+title: "🐘 About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am currently a master student enrolled in the Fall 2022 semester in the [School of Optics and Photonics](https://opt.bit.edu.cn/) at [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/)<img src="../images/bit-logo.png" alt="BIT-Logo" style="width: 20px; height: auto; margin-right: 10px;">.
 
@@ -12,16 +17,14 @@ My research interests encompass Computer Vision (Detection and Tracking), Knowle
 
 Currently, my work focuses on object detection and tracking algorithms in complex low-altitude aerial scenes, design of knowledge distillation framework for specific scenes, multi-object rotation detection algorithm based on optical remote sensing images and salient object detection, with the applications in complex low altitude scenes.
 
-
-# 📰 News
-
+📰 News
+======
 
 - 2024.05: 🌟 [RDR-KD](https://ieeexplore.ieee.org/document/10522745) is accepted by IEEE Geoscience and Remote Sensing Letters！
 - 2022.09: 🌟 I join BCI-Lab as a master researcher!
 
-
-# ✉️ Contact
-
+✉️ Contact
+======
 
 Welcome to contact with me via my email: huangjinxiang@bit.edu.cn / jinxiang.kd@gmail.com
 
