@@ -1,6 +1,7 @@
 ---
 title: " Multispectral Sample Augmentation and Illumination Guidance for RGB-T Object Detection by MMDetection Framework "
 collection: publications
+date: 2024-05-01
 venue: '2024 International Conference on Computer Network and Cloud Computing (CNCC 2024)'
 paperurl: 'http://Golden-Ele.github.io/files/Multispectral_Sample_Augmentation_and_Illumination.pdf'
 citation: 'Jinqi Yang, Xin Yang, Yizhao Liao, Jinxiang Huang, Hongyu He, Erfan Zhang, Ya Zhou, Yong Song*. Multispectral Sample Augmentation and Illumination Guidance for RGB-T Object Detection by MMDetection Framework[C]. 2024 4th International Conference on Laser, Optics and Optoelectronic Technology.'
