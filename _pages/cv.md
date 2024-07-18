@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here: [Jinxiang Huang's Curriculum Vitae](../files/CV_JinxiangHUANG.pdf).
+You can find my CV here: [Jinxiang Huang's Curriculum Vitae](../files/CV-JinxiangHuang.pdf).
 
 # Education
 
