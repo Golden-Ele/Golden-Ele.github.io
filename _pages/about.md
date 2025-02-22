@@ -25,6 +25,9 @@ Currently, my work focuses on object detection and tracking algorithms in comple
 
 🎖 Honors and Awards
 ======
+- 2024 **National Scholarship**, _Ministry of Education of the People's Republic of China_
+- 2024 **Graduate First Prize Scholarship**, _Beijing Institute of Technology_
+- 2024 **Outstanding Student**, _Beijing Institute of Technology_
 - 2023 **Graduate First Prize Scholarship**, _Beijing Institute of Technology_
 - 2023 **Outstanding Student**, _Beijing Institute of Technology_
 - 2023 **Outstanding League Cadres**, _Beijing Institute of Technology_
