@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jinxiang Huang / Personal Homepage"
+title                    : "Jinxiang Huang | Fudan University"
 title_separator          : "-"
 name                     : &name "Jinxiang Huang"
-description              : &description "a master's student from Beijing Institute of Technology"
+description              : &description "Ph.D. student at Fudan University researching UAV visual perception, object detection and tracking, knowledge distillation, and flow matching."
 url                      : https://Golden-Ele.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Golden-Ele/Golden-Ele.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "Avatar-hjx.png"
   name             : "Jinxiang Huang (黄金象)"
   pronouns         : "Golden-Ele"  
-  bio              : "M.S. Student, BIT"
-  location         : "Beijing, China"
-  employer         : "Beijing Institute of Technology"
+  bio              : "Ph.D. Student, Fudan University"
+  location         : "Shanghai, China"
+  employer         : "Fudan University"
   uri              : # URL
-  email            : "huangjinxiang@bit.edu.cn" 
+  email            : "huangjx25@m.fudan.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

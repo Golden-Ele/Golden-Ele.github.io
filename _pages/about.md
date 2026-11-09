@@ -1,30 +1,43 @@
 ---
 permalink: /
-title: "🐘 About me"
+title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am currently a master student enrolled in the Fall 2022 semester in the [School of Optics and Photonics](https://opt.bit.edu.cn/) at [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/)<img src="../images/bit-logo.png" alt="BIT-Logo" style="width: 20px; height: auto; margin-right: 10px;">.
+I am a Ph.D. student in Electronic Science and Technology at the [College of Future Information Technology](https://www.it.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/), which I joined in September 2025. My research focuses on reliable and efficient visual perception for unmanned aerial vehicles (UAVs), particularly object detection and tracking in low-altitude aerial scenes.
 
-Prior to joining BIT, I pursued my Bachelor's(BS) degree in Measurement and Control Technology and Instrument from the [School of Mechanical, Electronic and Control Engineering](https://mece.bjtu.edu.cn/) at [Beijing Jiaotong University (BJTU)](https://www.bjtu.edu.cn/)<img src="../images/bjtu-logo.png" alt="BJTU-Logo" style="width: 20px; height: auto; margin-right: 10px;">.
+I received my M.S. degree in Instrument Science and Technology from the [School of Optics and Photonics](https://opt.bit.edu.cn/), [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), in June 2025. Previously, I received my bachelor's degree in Measurement and Control Technology and Instrument from the [School of Mechanical, Electronic and Control Engineering](https://mece.bjtu.edu.cn/), [Beijing Jiaotong University (BJTU)](https://www.bjtu.edu.cn/), in 2022.
 
-I am very fortunate to be under the guidance of [Prof. Yong Song](https://opt.bit.edu.cn/jsdw/jsml/gdyqyjs/f491c35fcedd48548d87063037b5e67c.htm) from the [BCI-Lab](https://bit-bcilab.github.io/) at BIT and advised by [Prof. Xining Xu](https://faculty.bjtu.edu.cn/8929/) from the Rail Transit Intelligent Detection Technology Research Institute at BJTU.
+My master's research at BIT was supervised by [Prof. Yong Song](https://opt.bit.edu.cn/jsdw/jsml/gdyqyjs/f491c35fcedd48548d87063037b5e67c.htm) in the [BCI-Lab](https://bit-bcilab.github.io/). I was previously advised by [Prof. Xining Xu](https://faculty.bjtu.edu.cn/8929/) at BJTU.
 
-My research interests encompass Computer Vision (Detection and Tracking), Knowledge Distillation, Hardware Deployment under the UAV Platform.
+## Research Interests
 
-Currently, my work focuses on object detection and tracking algorithms in complex low-altitude aerial scenes, design of knowledge distillation framework for specific scenes, multi-object rotation detection algorithm based on optical remote sensing images and salient object detection, with the applications in complex low altitude scenes.
+- **UAV visual perception:** object detection and robust visual tracking in low-altitude aerial scenes, with an emphasis on small targets and complex backgrounds.
+- **Knowledge distillation and efficient deployment:** compact detection and tracking models for onboard UAV computing.
+- **Flow matching and temporal modeling:** learning to use historical visual information for visual tracking.
+- **Multi-platform collaborative perception:** cooperative visual detection and tracking across multiple UAV platforms.
 
-📰 News
-======
-- 2024.05: 🎉🎉 [LSN](https://ieeexplore.ieee.org/document/10521630) is accepted by IEEE Transactions on Geoscience and Remote Sensing！
-- 2024.05: 🎉🎉 [RDR-KD](https://ieeexplore.ieee.org/document/10522745) is accepted by IEEE Geoscience and Remote Sensing Letters！
-- 2022.09: 😄 I join BCI-Lab as a master researcher!
+## Selected Publications
 
-🎖 Honors and Awards
-======
+- **J. Huang**, H. Chang, X. Yang, Y. Liu, S. Liu, and Y. Song. "[RDR-KD: A Knowledge Distillation Detection Framework for Drone Scenes](https://doi.org/10.1109/LGRS.2024.3398140)." *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1–5, 2024.
+  Knowledge distillation for lightweight UAV object detection.
+- X. Yang, **J. Huang**, Y. Liao, Y. Song, Y. Zhou, and J. Yang. "[Light Siamese Network for Long-Term Onboard Aerial Tracking](https://doi.org/10.1109/TGRS.2024.3397916)." *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–15, 2024.
+  Efficient long-term aerial tracking with knowledge distillation and adaptive template updating.
+
+See the [publications page](/publications/) for additional work.
+
+## News
+
+- 2025.09: Joined Fudan University as a Ph.D. student in Electronic Science and Technology.
+- 2025.06: Received my M.S. degree from Beijing Institute of Technology.
+- 2024.05: RDR-KD was published in *IEEE Geoscience and Remote Sensing Letters*; LSN was published in *IEEE Transactions on Geoscience and Remote Sensing*.
+- 2022.09: Joined BCI-Lab at BIT for my master's studies.
+
+## Honors and Awards
+
 - 2024 **National Scholarship**, _Ministry of Education of the People's Republic of China_
 - 2024 **Graduate First Prize Scholarship**, _Beijing Institute of Technology_
 - 2024 **Outstanding Student**, _Beijing Institute of Technology_
@@ -39,15 +52,10 @@ Currently, my work focuses on object detection and tracking algorithms in comple
 - 2020&2021 **Academic Excellent Scholarship**, _Beijing Jiaotong University_
 - 2020 **Merit Award**, _The Third 3D Printing Competition at Tsinghua University_
 
-🖥️ Internship
-======
+## Internship
+
 - 2021.09 - 2022.2, Chaoyang District People’s Government of Beijing Municipality
 
-✉️ Contact
-======
-Welcome to contact with me via my email:  [huangjinxiang@bit.edu.cn](mailto:huangjinxiang@bit.edu.cn) / [jinxiang.kd@gmail.com](mailto:jinxiang.kd@gmail.com)
+## Contact
 
-
-
-
-
+Email: [huangjx25@m.fudan.edu.cn](mailto:huangjx25@m.fudan.edu.cn) / [jinxiang.kd@gmail.com](mailto:jinxiang.kd@gmail.com)
